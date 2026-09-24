@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+article {
+    background-color: white;
+    margin: 15px;
+    padding: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+
+input {
+    margin: 8px;
+}
